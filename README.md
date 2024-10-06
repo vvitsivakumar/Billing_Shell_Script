@@ -41,6 +41,10 @@ This project is a command-line tool written in Bash designed for managing produc
    ```bash
    ./purchase.sh
    ```
+   Run the script to Update Stock Quantity and Price:
+   ```bash
+   ./manage_stock.sh
+   ```
    
 ## Author
 Sivakumar - vvitsivakumar
