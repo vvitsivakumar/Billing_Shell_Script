@@ -27,20 +27,20 @@ This project is a command-line tool written in Bash designed for managing produc
 
 ## Usage
 
-Make the script executable to purchase:
-    ```bash
-    chmod +x purchase.sh
-    ```
+   Make the script executable to purchase:
+   ```bash
+   chmod +x purchase.sh
+   ```
     
-Make the script executable to update stock:
+   Make the script executable to update stock:
    ```bash
    chmod +x manage_stock.sh
    ```
 
-Run the script to purchase:
-```bash
+   Run the script to purchase:
+   ```bash
    ./purchase.sh
-```
+   ```
    
 ## Author
 Sivakumar - vvitsivakumar
