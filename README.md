@@ -23,20 +23,24 @@ This project is a command-line tool written in Bash designed for managing produc
    ```bash
    git clone https://github.com/vvitsivakumar/Billing_Shell_Script.git
    cd Billing_Shell_Script
+   ```
 
 ## Usage
 
 Make the script executable to purchase:
     ```bash
     chmod +x purchase.sh
+    ```
     
 Make the script executable to update stock:
-    ```bash
-   chmod +x manage_stock.sh
-   
-Run the script to purchase:
    ```bash
+   chmod +x manage_stock.sh
+   ```
+
+Run the script to purchase:
+```bash
    ./purchase.sh
+```
    
 ## Author
 Sivakumar - vvitsivakumar
