@@ -36,6 +36,10 @@ This project is a command-line tool written in Bash designed for managing produc
    ```bash
    chmod +x manage_stock.sh
    ```
+   Make the script executable to View stock:
+   ```bash
+   chmod +x view_stock.sh
+   ```
 
    Run the script to purchase:
    ```bash
@@ -44,6 +48,10 @@ This project is a command-line tool written in Bash designed for managing produc
    Run the script to Update Stock Quantity and Price:
    ```bash
    ./manage_stock.sh
+   ```
+   Run the script to View Stocks:
+   ```bash
+   ./view_stock.sh
    ```
    
 ## Author
